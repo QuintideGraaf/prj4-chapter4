@@ -1,0 +1,67 @@
+@charset "utf-8";
+
+.myheader {
+	width: 100%;
+	height: 180px;
+	background-image: url("../image/headd.jpg");	
+}
+
+p {
+	font-family: "Lucida Grande", "Lucida Sans Unicode", "Lucida Sans", "DejaVu Sans", Verdana, sans-serif;
+}
+
+Body {
+	background-color: #FFFFFF;
+}
+.pink {
+	color: #FFFFFF;
+	width: 320px;
+	background-color: #FFD8E3;
+	height: 310px;
+	margin-left: 790px;
+	text-align: justify;
+	clear: right;
+	border-bottom: medium dotted #000000;
+	list-style-position: inside;
+	margin-top: -393px;
+}
+.darker {
+	color: #FFFFFF;
+	width: 320px;
+	background-color: #FFB4C9;
+	height: 100px;
+	margin-left: 790px;
+	text-align: justify;
+	clear: right;
+	border-bottom: medium dotted #000000;
+}
+.darkest {
+	color: #FFFFFF;
+	width: 320px;
+	background-color: #FF90AF;
+	height: 100px;
+	margin-left: 790px;
+	text-align: justify;
+	clear: right;
+	border-bottom-style: dotted;
+	border-bottom-color: #000000;
+}
+.text {
+	width: 750px;
+	border-right: thin solid #000000;
+}
+
+#tappy {
+	color: #000000;
+	font-size: x-large;
+}
+.organge {
+	font-size: large;
+	font-weight: bold;
+	text-transform: uppercase;
+}
+
+.parent {
+	width: auto;
+	height: auto;
+}
